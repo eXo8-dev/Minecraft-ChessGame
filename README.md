@@ -7,13 +7,13 @@
    🤝 Multiplayer support
 
 📜 Project Status:
-    ✅ Figure moves: Fully functional and optimized for chess rules.
-    Checkmate: ✅
-    Checkmate: ✅
-    Stalemate: ✅
-    Passed Pawn: ❌
-    En Passant Capture: ❌
-    Configuration options: ❓
+    Figure moves - ✅ \
+    Checkmate - ✅ \
+    Checkmate - ✅ \
+    Stalemate - ✅ \
+    Passed Pawn - ❌ \
+    En Passant Capture - ❌ \
+    Configuration options - ❓ \
 
 ⏳ All missing features are under active development and will be available in future updates. Stay tuned!
 
