@@ -21,4 +21,5 @@
     Craft a board and place it on a block
 
 Board Craft:
+\
 ![image_1](https://github.com/user-attachments/assets/19d92897-edd1-470c-bc09-4eeec1c8d82d)
