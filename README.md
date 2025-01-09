@@ -6,7 +6,7 @@
    🌟 Chess board on a single block \
    🤝 Multiplayer support
 
-📜 Project Status:
+📜 Project Status: \
     Figure moves - ✅ \
     Checkmate - ✅ \
     Checkmate - ✅ \
