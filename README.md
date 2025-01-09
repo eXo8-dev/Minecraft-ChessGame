@@ -13,7 +13,7 @@
     Stalemate - ✅ \
     Passed Pawn - ❌ \
     En Passant Capture - ❌ \
-    Configuration options - ❓ \
+    Configuration options - ❓
 
 ⏳ All missing features are under active development and will be available in future updates. Stay tuned!
 
