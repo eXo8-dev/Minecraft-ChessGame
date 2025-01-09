@@ -3,7 +3,7 @@
 🎮 ChessGame brings the timeless strategy of chess to the borderless world of Minecraft! Play chess right on a single block - no need to build big boards
 
 🚀 Main features:
-   🌟 Chess board on a single block
+   🌟 Chess board on a single block \
    🤝 Multiplayer support
 
 📜 Project Status:
