@@ -1,0 +1,18 @@
+{
+    "providers": [
+        {
+            "type": "bitmap", 
+            "file": "minecraft:item/chess_gui.png",
+            "ascent": 13,
+            "height": 224,
+            "chars": ["᭶"]
+        },
+        {
+            "type": "bitmap", 
+            "file": "minecraft:item/pixel.png",
+            "ascent": -2000,
+            "height": -3,
+            "chars": ["᭴"]
+        }
+    ]
+}
