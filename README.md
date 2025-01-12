@@ -11,7 +11,8 @@
     Checkmate - ✅ \
     Checkmate - ✅ \
     Stalemate - ✅ \
-    Passed Pawn - ❌ \
+    Castling - ✅ \
+    Passed Pawn - ✅ \
     En Passant Capture - ❌ \
     Configuration options - ❓
 
