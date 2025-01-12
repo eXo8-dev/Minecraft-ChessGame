@@ -1,4 +1,4 @@
-🧩 Minecraft ChessGame
+🧩 Minecraft ChessGame - https://modrinth.com/plugin/chess-game/
 
 🎮 ChessGame brings the timeless strategy of chess to the borderless world of Minecraft! Play chess right on a single block - no need to build big boards
 
